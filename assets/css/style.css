@@ -189,9 +189,9 @@ section {
 }
 
 .change .bar3 {
-  -webkit-transform: rotate(45deg) translate(-8px, -8px) ;
-  -ms-transform: rotate(45deg) translate(-8px, -8px) ;
-      transform: rotate(45deg) translate(-8px, -8px) ;
+  -webkit-transform: rotate(45deg) translate(-10px, -7px) ;
+  -ms-transform: rotate(45deg) translate(-10px, -7px) ;
+      transform: rotate(45deg) translate(-10px, -7px) ;
 }
 
 /*--- MENU ---*/
